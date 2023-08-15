@@ -1,2 +1,2 @@
-# Odev3_PatikaSpringBoot
- Weather API
+# Wheather API
+https://www.weatherapi.com
